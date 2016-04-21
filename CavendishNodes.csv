@@ -1,0 +1,197 @@
+Nodes,Id,Label,City,Latitude,Longitude,modularity_class,Component ID
+Margaret Cavendish,1,Margaret Cavendish,St. John's Abbey,51.885544,-0.901575,35,0
+Sir Charles Cavendish,2,Sir Charles Cavendish,Welbeck Abbey,53.26215,-1.156029,79,0
+William Cavendish,3,William Cavendish (husband),Welbeck Abbey,53.26215,-1.156029,1,2
+Henry Cavendish,4,Lord Henry Cavendish,Welbeck Abbey,53.26215,-1.156029,3,4
+John Holles,5,John Holles,Welbeck Abbey,53.26215,-1.156029,4,5
+Henrietta Maria,6,Henrietta Maria,Oxford,51.751944,-1.257778,6,7
+Samuel Pepys,7,Samuel Pepys,London (Royal Society),51.505981,-0.132461,7,8
+Peter Paul Rubens,8,Peter Paul Rubens,Antwerp,51.216667,4.4,8,9
+Sir Theodore Mayerne,9,Sir Theodore Mayerne,Chelsea,51.4875,-0.1684,9,10
+John Lucas ,10,Lord John Lucas (brother),St. John's Abbey,51.885544,-0.901575,10,11
+Sir Henry Wotton,11,Sir Henry Wotton,London,51.507222,-0.1275,12,13
+Charles Lucas,12,Sir Charles Lucas (brother),St. John's Abbey,51.885544,-0.901575,13,14
+Henry More,13,Henry More,"Christ Church, Oxford",51.750199,-1.255853,100,0
+John Rushworth,14,John Rushworth,London,51.507222,-0.1275,14,15
+Richard Browne,15,Richard Browne,Paris,48.8567,2.3508,17,18
+Thomas Hobbes,16,Thomas Hobbes,Welbeck Abbey,53.26215,-1.156029,100,0
+Dr. John Cosin,17,Dr. John Cosin,Paris,48.8567,2.3508,21,22
+Robert Boyle,18,Robert Boyle,London (Royal Society),51.505981,-0.132461,22,23
+Robert Hooke,19,Robert Hooke,London (Royal Society),51.505981,-0.132461,35,0
+Walter Charleton,20,Walter Charleton,London (Royal Society),51.505981,-0.132461,35,0
+Charles Lamb,21,Charles Lamb,London,51.507222,-0.1275,23,24
+Katherine Philips,22,Katherine Philips,London,51.507222,-0.1275,25,26
+Robert Harley,23,Robert Harley,London,51.5,-0.083333,26,27
+Joseph Glanvill,24,Joseph Glanvill,London (Royal Society),51.505981,-0.132461,28,29
+Charles II,25,King Charles II,The Hague,52.083333,4.316667,29,30
+Thomas Thynne,26,Thomas Thynne,London,51.5,-0.083333,30,31
+James II,27,King James II,Bruges,51.216667,3.233333,31,32
+James I,28,King James I,Hertfordshire,51.9,-0.2,32,33
+Charles I,29,King Charles I,Oxford,51.751944,-1.257778,33,34
+Elizabeth Browne,30,Elizabeth Browne,Paris,48.8567,2.3508,34,35
+Elizabeth (Chaplian) Topp,31,Elizabeth (Chaplian) Topp,St. John's Abbey,51.885544,-0.901575,35,0
+Bishop John Bramhall,32,Bishop John Bramhall,Long Marston,53.95368,-1.2366,36,36
+William Carnaby,33,William Carnaby,Long Marston,53.95368,-1.2366,37,37
+Lord Widdrington,34,Lord Widdrington,Long Marston,53.95368,-1.2366,38,38
+Endymion Porter,35,Endymion Porter,Paris,48.8567,2.3508,39,39
+William Davenant,36,William Davenant,London,51.507222,-0.1275,40,40
+John Birkenhead,37,John Birkenhead,Paris,48.8567,2.3508,41,41
+Edmund Waller,38,Edmund Waller,Paris,48.8567,2.3508,78,0
+William Petty,39,William Petty,London,51.507222,-0.1275,42,42
+Kenelm Digby,40,Kenelm Digby,Paris,48.8567,2.3508,43,43
+Rene Descartes,41,Rene Descartes,Paris,48.8567,2.3508,100,0
+Pierre Gassendi,42,Pierre Gassendi,Paris,48.8567,2.3508,44,44
+Giles Roberval,43,Giles Roberval,Paris,48.8567,2.3508,45,45
+Claude Mydorge,44,Claude Mydorge,Paris,48.8567,2.3508,46,46
+Martin Mersenne,45,Martin Mersenne,Paris,48.8567,2.3508,47,47
+Torricelli,46,Torricelli,Florence,43.783333,11.25,48,48
+Constantijn Huygens,47,Constantijn Huygens,The Hague,52.083333,4.316667,78,0
+Samuel de Sorbière,48,Samuel de Sorbière,Amsterdam,52.366667,4.9,49,49
+Sir William Boswell,49,Sir William Boswell,Amsterdam,52.366667,4.9,50,50
+John Pell,50,John Pell,Amsterdam,52.366667,4.9,51,51
+Samuel Hartlib,51,Samuel Hartlib,London,51.507222,-0.1275,52,52
+Schyrlaeus de Rheita,52,Schyrlaeus de Rheita,Trier,49.75,6.633333,54,54
+Pierre de Fermat,53,Pierre de Fermat,Paris,48.8567,2.3508,55,55
+Willem Blaeu,54,Willem Blaeu,Amsterdam,52.366667,4.9,56,56
+"Lady Utricia Swann, nee Ogle",55,"Lady Utricia Swann, nee Ogle",Utrecht,52.083333,5.116667,57,57
+William Swann,56,William Swann,Utrecht,52.083333,5.116667,58,58
+Anna Maria van Schurmann,57,Anna Maria van Schurmann,Antwerp,51.216667,4.4,59,59
+"Mary, Princess Royal",58,"Mary, Princess Royal",The Hague,52.083333,4.316667,60,60
+William II of Orange,59,William II of Orange,The Hague,52.083333,4.316667,61,61
+"Beatrix, Duchess of Lorraine",60,"Beatrix, Duchess of Lorraine",Brussels,50.85,4.35,62,62
+Gaspard Duarte,61,Gaspard Duarte,Antwerp,51.216667,4.4,63,63
+Jacques Duarte,62,Jacques Duarte,Antwerp,51.216667,4.4,64,64
+Leonora Duarte,63,Leonora Duarte,Antwerp,51.216667,4.4,65,65
+Catharina Duarte,64,Catharina Duarte,Antwerp,51.216667,4.4,66,66
+Isabella Duarte,65,Isabella Duarte,Antwerp,51.216667,4.4,67,67
+Francisca Duarte,66,Francisca Duarte,Antwerp,51.216667,4.4,68,68
+Mademoiselle de Beauvais,67,Mademoiselle de Beauvais,Beersel,50.766667,4.3,69,69
+Richard Flecknoe,68,Richard Flecknoe,Brussels,50.85,4.35,70,70
+Sir Edward Hyde,69,Sir Edward Hyde,Antwerp,51.216667,4.4,78,0
+Henry Lawes,70,Henry Lawes,London,51.507222,-0.1275,71,71
+Walter Charleton,71,Walter Charleton,London,51.507222,-0.1275,72,72
+John Evelyn,72,John Evelyn,Paris,48.8567,2.3508,73,73
+Henry Pierrepont,73,Henry Pierrepont,London,51.507222,-0.1275,74,74
+Jane Cavendish (Cheyne),74,Jane Cavendish (Cheyne),Welbeck Abbey,53.26215,-1.156029,75,75
+Elizabeth Cavendish,75,Elizabeth Cavendish,Welbeck Abbey,53.26215,-1.156029,76,76
+John Martin,76,John Martin,St. Paul's Cathedral,51.513611,-0.098056,79,0
+James Allestrye,77,James Allestrye,St. Paul's Cathedral,51.513611,-0.098056,79,0
+Thomas Roycroft,78,Thomas Roycroft,St. Paul's Cathedral,51.513611,-0.098056,78,0
+Thomas Barlow,79,Thomas Barlow,Oxford (Bodleain Library),51.753972,-1.255139,79,0
+Robert Creighton,80,Robert Creighton,Rubenshuis,51.217222,4.409167,79,0
+Don John of Austria,81,Don John of Austria,Rubenshuis,51.217222,4.409167,80,78
+Helèena Fourment,82,Heleèna Fourment,Antwerp,51.216667,4.4,81,79
+Captain Mazine,83,Captain Mazine,Welbeck Abbey,53.26215,-1.156029,82,80
+marquess of Caracena,84,Marquess of Caracena,Rubenshuis,51.217222,4.409167,83,81
+John Donne,85,John Donne,London,51.507222,-0.1275,84,82
+Abraham van Diepenbeeck,86,Abraham van Diepenbeeck,Antwerp,51.216667,4.4,85,83
+Queen Christina of Sweden,87,Queen Christina of Sweden,Stockholm,59.329444,18.068611,86,84
+William Pierrepont,88,William Pierrepont,Nottinghamshire,53.166667,-1,87,85
+"Oliver St. John, earl of Bolingbroke",89,"Oliver St. John, earl of Bolingbroke",London,51.507222,-0.1275,88,86
+Frances Cavendish,90,Frances Cavendish,Welbeck Abbey,53.26215,-1.156029,89,87
+Charles Cheyne,91,Charles Cheyne,Buckinghamshire,51.833333,-0.833333,90,88
+"Charles Cavendish, Viscount Mansfield",92,"Charles Cavendish, Viscount Mansfield",Welbeck Abbey,53.26215,-1.156029,91,89
+Elizabeth Rogers,93,Elizabeth Rogers,London,51.507222,-0.1275,92,90
+John Hutton,94,John Hutton,Yorkshire,53.566667,-1.2,93,91
+William Clayton,95,William Clayton,Derbyshire,53.133333,-1.6,94,92
+Sir John Denham,96,Sir John Denham,London,51.507222,-0.1275,95,93
+Sir Thomas Lucas,97,Sir Thomas Lucas (brother),St. John's Abbey,51.885544,-0.901575,96,94
+Thomas Lucas Sr. ,98,Thomas Lucas  (great-great-grandfater),Colchester,51.888611,-0.901575,97,95
+Elizabeth Leighton,99,Elizabeth Leighton (mother),St. John's Abbey,51.885544,-0.901575,98,96
+J. B. van Helmont,100,J. B. van Helmont,Netherlands,52.316667,5.55,100,0
+Francis Topp,101,Francis Topp,Antwerp,51.216667,4.4,101,98
+Mary Evelyn,102,Mary Evelyn (Browne),Paris,48.8567,2.3508,102,99
+Elizabeth Pepys,103,Elizabeth Pepys,London,51.507222,-0.1275,103,100
+Maria de Medici,104,Maria de Medici,Paris,48.8567,2.3508,104,101
+Christiaan Huygens,105,Christiaan Huygens,The Hague,52.083333,4.316667,0,0
+Baruch Spinoza,106,Baruch Spinoza,The Hague,52.083333,4.316667,0,0
+"Thomas Belasyse, 1st Viscount Fauconberg",107,"Thomas Belasyse, 1st Viscount Fauconberg",Long Marston,53.95368,-1.2366,,
+Henry VII,108,Henry VII,London,51.507222,-0.1275,,
+John Lucas,109,John Lucas (great-grandfather),Colchester,51.888611,-0.901575,,
+"John de Vere, earl of Oxford",110,"John de Vere, earl of Oxford ",Colchester,51.888611,-0.901575,,
+Mary Abel,111,Mary Abel,Colchester,51.888611,-0.901575,,
+Elizabeth Christmas,112,Elizabeth Christmas ,Colchester,51.888611,-0.901575,,
+Lord Protector Somerset,113,Lord Protector Somerset,London,51.507222,-0.1275,,
+King Edward VI,114,King Edward VI,London,51.507222,-0.1275,,
+Sir Thomas Lucas,115,Sir Thomas Lucas (grandfather),St. John's Abbey,51.885544,-0.901575,,
+Mary Fermor,116,Mary Fermor ,St. John's Abbey,51.885544,-0.901575,,
+Queen Elizabeth I,117,Queen Elizabeth I,London,51.507222,-0.1275,,
+Ann Lucas,118,Ann Lucas (aunt),St. John's Abbey,51.885544,-0.901575,,
+Thomas Lucas,119,Thomas Lucas (father),St. John's Abbey,51.885544,-0.901575,,
+William Brooke,120,William Brooke,London,51.507222,-0.1275,,
+Lord Cobham,121,Lord Cobham,London,51.507222,-0.1275,,
+Mary Lucas,122,Mary Lucas (sister),St. John's Abbey,51.885544,-0.901575,,
+Peter Killigrew,123,Peter Killigrew,London,51.507222,-0.1275,,
+Samuel Harsnet,124,Samuel Harsnet,Colchester,51.888611,-0.901575,,
+Elizabeth Lucas,125,Elizabeth Lucas (sister),St. John's Abbey,51.885544,-0.901575,,
+William Walter,126,William Walter,Oxfordshire,51.75,-1.28,,
+Anne Nevill,127,Anne Nevill,Shenfield,51.6297,0.3192,,
+Anne Lucas,128,Anne Lucas (sister),St. John's Abbey,51.885544,-0.901575,,
+Catherine Lucas,129,Catherine Lucas,St. John's Abbey,51.885544,-0.901575,,
+Edmund Pye,130,Edmund Pye,London,51.507222,-0.1275,,
+Mary Byron,131,Mary Byron,Nottinghamshire,53.166667,-1,,
+Prince Rupert,132,Prince Rupert,Oxford,51.751944,-1.257778,,
+Louis XIII,133,Louis XIII,Paris,48.8567,2.3508,,
+Anne of Austria ,134,Anne of Austria ,Paris,48.8567,2.3508,,
+Louis XIV,135,Louis XIV ,Paris,48.8567,2.3508,,
+Maria Theresa,136,Maria Theresa ,Paris,48.8567,2.3508,,
+Jeffrey Hudson,137,Jeffrey Hudson,Saint-Germian-en-Laye,48.898056,2.096389,,
+Lord Jermyn,138,Lord Jermyn,Saint-Germian-en-Laye,48.898056,2.096389,,
+Countess of Denbigh,139,Countess of Denbigh,Saint-Germian-en-Laye,48.898056,2.096389,,
+Dr. William Davidson,140,Dr. William Davidson,Paris,48.8567,2.3508,,
+Sir Theodore Mayerne,141,Sir Theodore Mayerne,London,51.507222,-0.1275,,
+William Dobson,142,William Dobson,London,51.507222,-0.1275,,
+Oliver Cromwell ,143,Oliver Cromwell,London,51.507222,-0.1275,,
+Prince Henry,144,Prince Henry,London,51.507222,-0.1275,,
+Henry Wotton,145,Henry Wotton,London,51.507222,-0.1275,,
+Elizabeth Basset,146,Elizabeth Basset,Staffordshire,52.833333,-2,,
+Sir Charles Cavendish,147,Sir Charles Cavendish (father),Welbeck Abbey,53.26215,-1.156029,,
+Katherine Ogle,148,Katherine Ogle,Northumberland,55.166667,-2,,
+Elizabeth Cavendish,149,"Elizabeth Cavendish ""Bess of Hardwick""",Welbeck Abbey,53.26215,-1.156029,,
+"John Egerton, Viscount Brackley",150,"John Egerton, Viscount Brackley",Welbeck Abbey,53.26215,-1.156029,,
+Mark Anthony Benoist ,151,Mark Anthony Benoist,Paris,48.8567,2.3508,,
+Dr. Robert Payne,152,Dr. Robert Payne,"Christ Church, Oxford",51.750199,-1.255853,,
+Jasper Mayne,153,Jasper Mayne,"Christ Church, Oxford",51.750199,-1.255853,,
+"Gilbert, Earl of Shrewsbury",154,"Gilbert, Earl of Shrewsbury",Shrewsbury,52.708,-2.754,,
+John Rolleston,155,John Rolleston,Welbeck Abbey,53.26215,-1.156029,,
+John Proctor,156,John Proctor,Welbeck Abbey,53.26215,-1.156029,,
+Christopher Simpson,157,Christopher Simpson,Long Marston,53.95368,-1.2366,,
+James Shirley,158,James Shirley,Long Marston,53.95368,-1.2366,,
+Ben Johnson,159,Ben Johnson,Welbeck Abbey,53.26215,-1.156029,,
+John Fell,160,John Fell,"Christ Church, Oxford",51.750199,-1.255853,,
+John Ford,161,John Ford,Devon,50.7,-3.8,,
+Richard Brome,162,Richard Brome,London,51.507222,-0.1275,,
+Abraham Cowley,163,Abraham Cowley,Saint-Germian-en-Laye,48.898056,2.096389,,
+William Oughtred,164,William Oughtred,"Shalford, Surrey",51.211,-0.568,,
+Edward Dering,165,Edward Dering,London,51.507222,-0.1275,,
+Charles Rust,166,Charles Rust,Antwerp,51.216667,4.4,,
+Anne Maxwell,167,Anne Maxwell,St. Paul's Cathedral,51.513611,-0.098056,,
+prince de Condre,168,prince de Condre,Rubenshuis,51.217222,4.409167,,
+landgrave of Hess,169,landgrave of Hess,Rubenshuis,51.217222,4.409167,,
+duke of Oldenburg,170,duke of Oldenburg,Rubenshuis,51.217222,4.409167,,
+prince of East Friesland,171,prince of East Friesland,Rubenshuis,51.217222,4.409167,,
+marquess of Ormonde,172,marquess of Ormonde,Antwerp,51.216667,4.4,,
+Samuel Marsh,173,Samuel Marsh,Bolsover,53.231389,-1.296944,,
+William Wilson,174,William Wilson,St. Paul's Cathedral,51.513611,-0.098056,,
+Thomas Tully,175,Thomas Tully,"St. Edmund Hall, Oxford",51.753,-1.25,,
+John Harmar,176,John Harmar,"St. Edmund Hall, Oxford",51.753,-1.25,,
+James Bristow,177,James Bristow,"Christ Church, Oxford",51.750199,-1.255853,,
+William Moore,178,William Moore,Cambridge,52.205,0.119,,
+Lord Wharton,179,Lord Wharton,London,51.507222,-0.1275,,
+Sir George Savile,180,Sir George Savile,London,51.507222,-0.1275,,
+Sir Thomas Osborne,181,Sir Thomas Osborne,London,51.507222,-0.1275,,
+Lord Brownclear,182,Lord Brownclear,London (Royal Society),51.505981,-0.132461,,
+Ferrabosco (Elizabeth?),183,Ferrabosco (Elizabeth?),London (Royal Society),51.505981,-0.132461,,
+Lord George Berkeley,184,Lord George Berkeley,London (Royal Society),51.505981,-0.132461,,
+George Marely,185,George Marely,London,51.507222,-0.1275,,
+Jocelyn Lord Percy,186,Jocelyn Lord Percy,London,51.507222,-0.1275,,
+Mistress Perkins,187,Mistress Perkins,Welbeck Abbey,53.26215,-1.156029,,
+Mistress Remington,188,Mistress Remington,Welbeck Abbey,53.26215,-1.156029,,
+Mistress Evans,189,Mistress Evans,Welbeck Abbey,53.26215,-1.156029,,
+Eustachio Divini,190,Eustachio Divini,Rome,41.9,12.5,,
+King Henry IV,191,King Henry IV,Paris,48.8567,2.3508,,
+Anne of Denmark,192,Anne of Denmark,London,51.507222,-0.1275,,
+Lord General Fairfax,193,Lord General Fairfax,Colchester,51.888611,-0.901575,,
+Sir George Lisle,194,Sir George Lisle,Colchester,51.888611,-0.901575,,
+Sir Benard Gascoigne,195,Sir Bernard Gascoigne,Colchester,51.888611,-0.901575,,
+Francis Bacon,196,Francis Bacon,London,51.507222,-0.1275,,
